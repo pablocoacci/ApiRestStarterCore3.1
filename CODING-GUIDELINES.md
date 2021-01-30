@@ -6,7 +6,7 @@
 
 ### Tecnologías utilizadas
 
-- .NET Core 2.2
+- .NET Core 3.1
 - ASP.NET CORE MVC
 - MediatR
 - EntityFramework
